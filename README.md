@@ -1,1 +1,1 @@
-# image-slider-using-html-and-css
+# Image slider using html and css
